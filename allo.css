@@ -1,0 +1,15 @@
+.white-text-with-white-shadow {
+    text-shadow: 1px 1px 2px #ffffff, 0 0 1em rgb(255, 255, 255), 0 0 0.2em rgb(255, 255, 255);
+    color: white;
+    font: 1.5em Georgia, serif;
+ }
+.body2_style{
+    background-image: url("Mike-OHearn-2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.white-text-with-black-shadow{
+    text-shadow: 1px 1px 2px #000000, 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+    color: white;
+    font: 1 em Georgia, serif;
+}
